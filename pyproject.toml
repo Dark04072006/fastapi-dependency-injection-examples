@@ -1,0 +1,9 @@
+[project]
+authors = [{name = "Alim Abrekov", email = "alimabrekov@outlook.com"}]
+dependencies = [
+  "fastapi>=0.110.1",
+  "uvicorn>=0.29.0",
+]
+name = "fastapi-dependency-injection-examples"
+requires-python = ">=3.10"
+version = "0.1.0"
