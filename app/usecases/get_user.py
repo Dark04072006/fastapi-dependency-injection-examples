@@ -4,7 +4,7 @@ from app.protocols.gateway import DatabaseGateway
 
 class GetUser:
     """
-    Interactor for giving a user
+    interactor to get user
     """
 
     def __init__(self, gateway: DatabaseGateway) -> None:
